@@ -1,6 +1,6 @@
 # Inventory Management & Customer Billing System<br>
 
-•••PROJECT TITLE••• <br>
+#•••PROJECT TITLE••• <br>
 Inventory Management & Customer Billing System
 <br>
 
