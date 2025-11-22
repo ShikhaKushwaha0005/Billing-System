@@ -4,43 +4,43 @@
 Customer billing system<br>
 
 
-•••OVERVIEW OF THE PROJECT•••
+•••OVERVIEW OF THE PROJECT•••<br>
 This software project is developed to automate the functionalities of a CUSTOMER BILLING SYSTEM.
-Customer Billing System Project is a basic console application created to show the actual use of the Python programming language and its capabilities as well as to develop an application that can be used to charge customers in any department store, shop, cafe, etc. We may use this program to keep track of our frequent customers' billing information such as item number, item name, quantity taken, total amount, and so on. We may also add and update details at any moment if we have a new client.
+Customer Billing System Project is a basic console application created to show the actual use of the Python programming language and its capabilities as well as to develop an application that can be used to charge customers in any department store, shop, cafe, etc. We may use this program to keep track of our frequent customers' billing information such as item number, item name, quantity taken, total amount, and so on. We may also add and update details at any moment if we have a new client.<br>
 
 
-•••FEATURES•••
-The objective of the software project is to develop a computerized MIS and to automate the functions of a CUSTOMER BILLING SYSTEM. This software project is also aimed to enhance the current record keeping system, which will help managers to retrieve the up-to-date information at right time in right shape.
+•••FEATURES•••<br>
+The objective of the software project is to develop a computerized MIS and to automate the functions of a CUSTOMER BILLING SYSTEM. This software project is also aimed to enhance the current record keeping system, which will help managers to retrieve the up-to-date information at right time in right shape.<br>
 
-Major features:
-1. Stock maintaing
-        Sub-Featues:
-           1. Display all stock details
-           2.Add new stock
-           3. Delete Stock
-           4. Modify Stock
-           5. Display Single Item
-           6. Return to Main Menu
-2. Customer billing3
+Major features:<br>
+1. Stock maintaing<br>
+        Sub-Featues:<br>
+           1. Display all stock details<br>
+           2.Add new stock<br>
+           3. Delete Stock<br>
+           4. Modify Stock<br>
+           5. Display Single Item<br>
+           6. Return to Main Menu<br>
+2. Customer billing <br>
 3. Exit
          
-The proposed software system is expected to do the following functionality-
-  • To provide a user friendly and centralized environment for     MANAGEMENT activities
-  • The proposed system should maintain all the records of Billings and particular items along with         their details such as item number and item name and quantity, and generate the required reports and     information when required. 
+The proposed software system is expected to do the following functionality- <br>
+  • To provide a user friendly and centralized environment for  MANAGEMENT activities
+  • The proposed system should maintain all the records of Billings and particular items along with         their details such as item number and item name and quantity, and generate the required reports and     information when required.  <br>
   
 
-•••TECNOLOGIES/TOOLS USED•••
-1. Hardware used:
-   •	PC with Intel Core i5-2400S processor having 4.00 GB RAM,
-   •	32/64-bit Operating System,
-   •	SVGA and other required devices. 
+•••TECNOLOGIES/TOOLS USED••• <br>
+1. Hardware used: <br>
+   •	PC with Intel Core i5-2400S processor having 4.00 GB RAM, <br>
+   •	32/64-bit Operating System, <br>
+   •	SVGA and other required devices.  <br>
 
-2. Software used:
-   • Microsoft Windows 10 Pro as Operating System. 
-   • Python 3.7.2 as Front-end Development environment. 
-   • MS-Word 2019 for documentation
-   • CSV- It is used to handle csv file. 
-         Module contains functions like :-
+2. Software used: <br>
+   • Microsoft Windows 10 Pro as Operating System.  <br>
+   • Python 3.7.2 as Front-end Development environment.  <br>
+   • MS-Word 2019 for documentation <br>
+   • CSV- It is used to handle csv file.  <br>
+         Module contains functions like :- <br>
          •	reader()
          •	writer()
          •	writerow()
