@@ -1,7 +1,8 @@
 # Billing-System <br>
 
 •••PROJECT TITLE••• <br>
-Customer billing system<br>
+Inventory Management & Customer Billing System
+<br>
 
 
 •••OVERVIEW OF THE PROJECT•••<br>
@@ -24,9 +25,11 @@ Major features:<br>
 2. Customer billing <br>
 3. Exit
          
-The proposed software system is expected to do the following functionality- <br>
-  • To provide a user friendly and centralized environment for  MANAGEMENT activities
-  • The proposed system should maintain all the records of Billings and particular items along with their details such as item number and item name and quantity,and generate the required reports and information when required.  <br>
+Understanding MySQL–Python integration
+Implementing CRUD operations
+File handling using CSV module
+Error handling and modular programming
+Real-world problem-solving through coding <br>
   
 
 •••TECNOLOGIES/TOOLS USED••• <br>
