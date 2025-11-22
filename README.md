@@ -65,6 +65,21 @@ The project has 101 to 150 item in stock enter any numbee between these to run a
 
 ![WhatsApp Image 2025-11-22 at 21 49 41_bf115bdf](https://github.com/user-attachments/assets/1f159977-9a98-44b4-8a4b-a8e852772740)
 
+![WhatsApp Image 2025-11-22 at 21 58 29_d428e056](https://github.com/user-attachments/assets/d2177c69-3bc4-4668-b12c-79491d462211)
+
+![WhatsApp Image 2025-11-22 at 21 59 56_d0043cb0](https://github.com/user-attachments/assets/619ce86b-6e81-4394-ba7a-214d7c130419)
+
+![WhatsApp Image 2025-11-22 at 22 01 24_6c6cce71](https://github.com/user-attachments/assets/6c3f3b3b-fa6f-45cd-8573-1fc66525b326)
+
+![WhatsApp Image 2025-11-22 at 22 03 52_e0764cb2](https://github.com/user-attachments/assets/4075e30c-a478-4aed-8079-9cf7e002b378)
+
+![WhatsApp Image 2025-11-22 at 22 05 38_38a9a6e5](https://github.com/user-attachments/assets/531a9575-8fde-4868-bc0a-c69723046ce4)
+
+![WhatsApp Image 2025-11-22 at 22 06 16_9276032e](https://github.com/user-attachments/assets/3652cd25-a2b3-4ba7-9e78-47f3852f7ad0)
+
+![WhatsApp Image 2025-11-22 at 22 06 16_6b8154c9](https://github.com/user-attachments/assets/c3a65c1d-d758-4c01-9a56-91147eababc9)
+
+![WhatsApp Image 2025-11-22 at 22 10 20_fc650c90](https://github.com/user-attachments/assets/ab4b804b-d4dc-45aa-8a15-00ad420c542d)
 
 <img width="979" height="370" alt="image" src="https://github.com/user-attachments/assets/42af5071-7fb3-41ba-8c68-1a8f7653e221" />
 
